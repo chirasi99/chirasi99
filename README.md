@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-<img align="center" alt="programming girl" width="250px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" /> </p>
+<img align="center" alt="programming girl" width="400px" height="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" /> </p>
 <br /><br />
 
 <hr>
@@ -12,7 +12,7 @@
 
 ### I'm a Computer Science Student!
 
-- 👩‍🎓 I’m currently studying at 🎓[University Of Colombo School of Computing]  
+- 👩‍🎓 I’m first year student at 🎓[University Of Colombo School of Computing]  
 - 👩‍💻 I’m currently learning Computer Science 💙💖
 - 👯 I’m looking to collaborate with other content creators 😉😋
 - ⚡ Fun fact: I love to coding 😜⌨️ and web development😍.
