@@ -24,10 +24,10 @@
 
 <br />
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin] 
-[<img align="left" alt="instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][Instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][Facebook]
-[<img align="left" alt="Pinterest" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-256.png" />][Pinterest]
+[<img align="left" alt="LinkedIn" width="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin] 
+[<img align="left" alt="instagram" width="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />][Instagram]
+[<img align="left" alt="Facebook" width="35px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][Facebook]
+[<img align="left" alt="Pinterest" width="35px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Pinterest_colored_svg-256.png" />][Pinterest]
 
 
 <br />
@@ -37,17 +37,17 @@
 
 <br />
 
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/fluency-systems-filled/2x/python.png" />
-<img align="left" alt="R" width="26px" src="https://img.icons8.com/ios-filled/2x/html.png" />
-<img align="left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/ios-filled/2x/vb.png" />
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/material-outlined/2x/mysql-logo.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/ios-filled/2x/php-logo.png" />
-<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/material-sharp/2x/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/ios-filled/2x/c-plus-plus.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/ios-filled/2x/javascript.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/ios-filled/2x/java-coffee-cup-logo.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/2x/c-programming.png" />
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/fluency-systems-filled/2x/python.png" />
+<img align="left" alt="R" width="30px" src="https://img.icons8.com/ios-filled/2x/html.png" />
+<img align="left" alt="Microsoft Excel" width="30px" src="https://img.icons8.com/ios-filled/2x/vb.png" />
+<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/material-outlined/2x/mysql-logo.png" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://img.icons8.com/ios-filled/2x/php-logo.png" />
+<img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/material-sharp/2x/github.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/ios-filled/2x/c-plus-plus.png" />
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/ios-filled/2x/javascript.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/ios-filled/2x/java-coffee-cup-logo.png" />
+<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/2x/c-programming.png" />
 
 <br />
 <br />
