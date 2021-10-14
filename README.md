@@ -67,7 +67,7 @@
 
 <hr>
 
-### Thank you very much for visiting mg GitHub Account ❣️❣️!
+### Thank you very much for visiting my GitHub Account ❣️❣️!
 
 [University Of Colombo School of Computing]: https://ucsc.cmb.ac.lk/
 [Pinterest]: https://www.pinterest.com/chirasia/
