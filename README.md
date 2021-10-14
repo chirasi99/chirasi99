@@ -37,17 +37,18 @@
 
 <br />
 
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/fluency-systems-filled/2x/python.png" />
-<img align="left" alt="R" width="30px" src="https://img.icons8.com/ios-filled/2x/html.png" />
-<img align="left" alt="Microsoft Excel" width="30px" src="https://img.icons8.com/ios-filled/2x/vb.png" />
-<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/material-outlined/2x/mysql-logo.png" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://img.icons8.com/ios-filled/2x/php-logo.png" />
-<img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/material-sharp/2x/github.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/ios-filled/2x/c-plus-plus.png" />
-<img align="left" alt="Git" width="30px" src="https://img.icons8.com/ios-filled/2x/javascript.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/ios-filled/2x/java-coffee-cup-logo.png" />
-<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/2x/c-programming.png" />
+<img align="left" alt="Python" width="35px" src="https://img.icons8.com/ios-filled/2x/python.png" />
+<img align="left" alt="html" width="35px" src="https://img.icons8.com/ios-filled/2x/html.png" />
+<img align="left" alt="visual basic" width="35px" src="https://img.icons8.com/ios-filled/2x/vb.png" />
+<img align="left" alt="MySQL" width="35px" src="https://img.icons8.com/material-outlined/2x/mysql-logo.png" />
+<img align="left" alt="php" width="35px" src="https://img.icons8.com/ios-filled/2x/php-logo.png" />
+<img align="left" alt="Tableau" width="35px" src="https://img.icons8.com/material-sharp/2x/github.png" />
+<img align="left" alt="c++" width="35px" src="https://img.icons8.com/ios-filled/2x/c-plus-plus.png" />
+<img align="left" alt="javascript" width="35px" src="https://img.icons8.com/ios-filled/2x/javascript.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="java" width="35px" src="https://img.icons8.com/ios-filled/2x/java-coffee-cup-logo.png" />
+<img align="left" alt="c" width="35px" src="https://img.icons8.com/ios-filled/2x/c.png" />
+<img align="left" alt="css" width="35px" src="https://img.icons8.com/ios-filled/2x/css.png" />
 
 <br />
 <br />
