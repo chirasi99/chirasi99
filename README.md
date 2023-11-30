@@ -12,10 +12,10 @@
 
 ### I'm a Computer Science Student!
 
-- 👩‍🎓 I’m a first year student at 🎓[University Of Colombo School of Computing]  
+- 👩‍🎓 Third year undergraduate at 🎓[University Of Colombo School of Computing]  
 - 👩‍💻 I’m currently learning Computer Science 💙💖
 - 👯 I’m looking to collaborate with other content creators 😉😋
-- ⚡ Fun fact: I love to coding 😜⌨️ and web development😍.
+- ⚡ Fun fact: I love to coding 😜⌨️ and both mobile and web development😍.
 
 <br />
 <br />
